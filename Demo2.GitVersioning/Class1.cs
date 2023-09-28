@@ -1,6 +1,6 @@
 ﻿namespace Demo2.GitVersioning
 {
-    public class Class1
+    public class MyClass
     {
 
     }
